@@ -80,3 +80,5 @@ npm install
 setup .env
 
 php artisan key:generate
+
+npm run watch
